@@ -499,7 +499,7 @@ This is the standard guideline. Use this to help with sizing your icons and they
 - **Yellow** is like a road shoulder, it is there if more space is needed. It should be used for protruding elements, like corners or ornaments.
 - **Red** is off limits. It should not be touched by the icons. Red is also how a circular icon would look.
 
-## Installation
+## Installation steps 
 
 ```sh
 npm install --save super-tiny-icons
